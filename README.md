@@ -1,7 +1,7 @@
 <div style="background-color: #ffffff; padding: 10px; border-radius: 5px;">
-    <h1 style="color:rgb(76, 73, 231);">Primeira estudo na linguagem PYTHON</h1>
+    <h1 style="color:rgb(76, 73, 231);">Primeiro estudo em PYTHON</h1>
     <h3 style="color:rgb(76, 73, 231);">Codigos básicos construidos em PYTHON</h3>
-    <h2 style="color: #000000;" >Primeiro estudo feito com em python criado repositório para registro do aprendizado. </h2>
+    <h2 style="color: #000000;" >Primeiro estudo feito em PYTHON criado repositório para registro do aprendizado. </h2>
                         
     
 <div style="background-color: #ffffff; padding: 10px; border-radius: 5px;">
