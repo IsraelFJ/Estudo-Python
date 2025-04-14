@@ -20,7 +20,5 @@ else:
 numero = float (input('Digite um numero: '))
 if numero % 2 == 0:
     print(f"Numero {numero} é par")
-elif numero % 2 != 0:
-    print(f"Numero {numero} é impar")
 else:
-    print("Você digitou zero")
+    print(f"Numero {numero} é impar")
